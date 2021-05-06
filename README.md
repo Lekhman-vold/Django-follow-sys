@@ -1,2 +1,2 @@
-# Django-follow-sys
-`follow and unfollow system in Django`
+# Django-follow-system
+follow and unfollow system in Django
